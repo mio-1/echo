@@ -11,5 +11,6 @@ mermaid: true
 ## 2022
 * [11/05] [龙脉常歌](/echo/posts/echo-of-starsong/)
 * [11/12] 终焉之莉莉：骑士寂夜
+* [12/04] 暖雪 
 
 ## 2023
