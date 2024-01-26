@@ -1,6 +1,6 @@
 ---
-title: "Archive"
+title: "所有文章"
 layout: "archives"
-# url: "/archives"
+url: "/archives"
 summary: "archives"
 ---
