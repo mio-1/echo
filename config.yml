@@ -51,7 +51,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "一个不善言语的普通人，希望在这一隅，留下些许痕迹。"
+  description: "静处"
   author: iroak
   # author: ["Me", "You"] # multiple authors
 
@@ -85,15 +85,8 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod's Demo"
-    Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
-
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+    Title: "Hi! I'm iroak"
+    Content: "一个不善言语的普通人，希望在这一隅，留下些许痕迹。"
 
   socialIcons:
     - name: github
