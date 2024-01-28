@@ -7,7 +7,7 @@ lastmod: 2024-01-30
 tags: 
 keywords: 
 description: 
-series: "['hello']"
+series: ["hello"]
 cover:
   image: 
 dir: /content/posts
