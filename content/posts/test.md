@@ -1,13 +1,13 @@
 ---
 share: "true"
-title: test234
+title: hello
 author: iroak
 date: 2024-01-28
 lastmod: 2024-01-29
 tags: 
 keywords: 
 description: 
-series: test
+series: ["hello"]
 cover:
   image: 
 dir: /content/posts
