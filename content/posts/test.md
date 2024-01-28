@@ -1,14 +1,16 @@
 ---
 share: "true"
-title: "{{title}}"
+title: test234
 author: iroak
-date: "{{date}}"
-slug: "{{time}}"
+date: 2024-01-28
+lastmod: 2024-01-29
 tags: 
 keywords: 
 description: 
+series: test
 cover:
   image: 
-series: 
+dir: /content/posts
 ---
 
+你好
