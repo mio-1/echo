@@ -91,7 +91,7 @@ params:
   ShowToc: true
   tocopen: false
   # comments: false
-  images: ["images/papermod-cover.png"]
+  # images: ["images/papermod-cover.png"]
   DateFormat: "2006-01-02"
   profileMode:
     enabled: false
@@ -117,12 +117,12 @@ params:
   #         SiteVerificationTag: "XYZabc"
 
   assets:
-    disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>"
+    # disableHLJS: true
+    favicon: "/resources/icon/favicon.ico"
+    favicon16x16: "/resources/icon/favicon-16x16.png"
+    favicon32x32: "/resources/icon/favicon-32x32.png"
+    apple_touch_icon: "/resources/icon/apple-touch-icon.png"
+    safari_pinned_tab: "/resource/icon/safari_pinned_tab.png"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
