@@ -80,7 +80,7 @@ params:
   - x
   - telegram
   - email
-  ShowReadingTime: true
+  ShowReadingTime: false
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: false
