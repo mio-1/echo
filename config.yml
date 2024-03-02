@@ -118,11 +118,11 @@ params:
 
   assets:
     # disableHLJS: true
-    favicon: "/resources/icon/favicon.ico"
-    favicon16x16: "/resources/icon/favicon-16x16.png"
-    favicon32x32: "/resources/icon/favicon-32x32.png"
-    apple_touch_icon: "/resources/icon/apple-touch-icon.png"
-    safari_pinned_tab: "/resource/icon/safari_pinned_tab.png"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari_pinned_tab.png"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
