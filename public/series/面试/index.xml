@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>面试 on Echo</title>
+    <link>http://localhost:1313/series/%E9%9D%A2%E8%AF%95/</link>
+    <description>Recent content in 面试 on Echo</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/%E9%9D%A2%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>面试专题 ＃1 - Java基础</title>
+      <link>http://localhost:1313/interview/topic-1/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interview/topic-1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

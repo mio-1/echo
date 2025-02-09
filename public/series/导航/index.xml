@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>导航 on Echo</title>
+    <link>http://localhost:1313/series/%E5%AF%BC%E8%88%AA/</link>
+    <description>Recent content in 导航 on Echo</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/%E5%AF%BC%E8%88%AA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TV记录</title>
+      <link>http://localhost:1313/navigation/tv/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/navigation/tv/</guid>
+      <description>&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[4/23]  最后生还者-第一季&lt;/li&gt;&#xA;&lt;li&gt;[6/21]  狂飙&lt;/li&gt;&#xA;&lt;li&gt;[12/14]  行尸走肉-第一季&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>动漫记录</title>
+      <link>http://localhost:1313/navigation/anime/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/navigation/anime/</guid>
+      <description>&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[3/16]  刀剑神域进击篇：暮色黄昏&lt;/li&gt;&#xA;&lt;li&gt;[3/23]  葬送的芙莉莲&lt;/li&gt;&#xA;&lt;li&gt;[9/30]  败犬女主太多了&lt;/li&gt;&#xA;&lt;li&gt;[10/3]  义妹生活&lt;/li&gt;&#xA;&lt;li&gt;[11/4]   杖与剑的魔剑谭&lt;/li&gt;&#xA;&lt;li&gt;[11/18]  鬼灭之刃 游郭篇&lt;/li&gt;&#xA;&lt;li&gt;[11/20]  鬼灭之刃 刀匠村篇&lt;/li&gt;&#xA;&lt;li&gt;[12/19]  剑来&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>图书记录</title>
+      <link>http://localhost:1313/navigation/book/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/navigation/book/</guid>
+      <description>&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[2/23]  道诡异仙&lt;/li&gt;&#xA;&lt;li&gt;[2/28]  小王子&lt;/li&gt;&#xA;&lt;li&gt;[3/2]  &lt;a href=&#34;http://localhost:1313/photography/basic-photography-learning/&#34;&gt;新摄影笔记&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;[3/6]  献给阿尔吉侬的花束&lt;/li&gt;&#xA;&lt;li&gt;[3/11]  &lt;a href=&#34;http://localhost:1313/book/the-mythical-man-month/&#34;&gt;人月神话&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;[5/23]  一九八四&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>影视记录</title>
+      <link>http://localhost:1313/navigation/film-tv/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/navigation/film-tv/</guid>
+      <description>&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[4/2]  1917&lt;/li&gt;&#xA;&lt;li&gt;[4/14]  至暗时刻&lt;/li&gt;&#xA;&lt;li&gt;[4/21]  血战钢锯岭&lt;/li&gt;&#xA;&lt;li&gt;[5/3]  西线无战事&lt;/li&gt;&#xA;&lt;li&gt;[11/9]  周处除三害&lt;/li&gt;&#xA;&lt;li&gt;[12/16]  白蛇：浮生&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
