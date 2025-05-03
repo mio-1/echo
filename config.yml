@@ -94,7 +94,7 @@ params:
   # images: ["images/papermod-cover.png"]
   DateFormat: "2006-01-02"
   profileMode:
-    enabled: true
+    enabled: false
     title: profile
     imageUrl: "#"
     imageTitle: my image
