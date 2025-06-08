@@ -56,7 +56,7 @@ params:
   homeInfoParams:
     Title: "Hi! I'm iroak"
     Content: "一个不善言语的普通人，希望在这一隅，留下些许痕迹。"
-  social:
+  socialIcons:
     - name: github
       title: Github
       url: "https://github.com/mio-1"
