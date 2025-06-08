@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://blog.iroak.cn/"
 title: Echo
-paginate: 5
+pagination.pagerSize: 5
 theme: [hugo-PaperMod]
 languageCode: zh-cn
 
@@ -56,7 +56,7 @@ params:
   homeInfoParams:
     Title: "Hi! I'm iroak"
     Content: "一个不善言语的普通人，希望在这一隅，留下些许痕迹。"
-  socialIcons:
+  social:
     - name: github
       title: Github
       url: "https://github.com/mio-1"
